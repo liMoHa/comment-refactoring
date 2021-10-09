@@ -1,7 +1,5 @@
 # comment-refactoring
 
-```bash
-
 .
 |-- components
 |   `-- LunchValue.tsx # template
@@ -19,7 +17,4 @@
 |   `-- style.css
 `-- util
     `-- index.ts
-
-
-```
 
