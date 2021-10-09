@@ -4,7 +4,7 @@
 
 .
 |-- components
-|   `-- LunchValue.tsx
+|   `-- LunchValue.tsx # template
 |-- constant
 |   `-- index.ts
 |-- data
