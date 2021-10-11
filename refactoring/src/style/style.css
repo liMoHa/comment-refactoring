@@ -1,0 +1,14 @@
+html,
+body {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+    font-family: Arial;
+    font-size: 20px;
+}
+
+#__next {
+    margin: 0px;
+    padding: 0px;
+    height: 100%;
+}
