@@ -1,4 +1,4 @@
-# comment-refactoring
+# 프로젝트 구성
 
 ```bash
 .
