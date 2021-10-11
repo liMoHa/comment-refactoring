@@ -1,6 +1,7 @@
 # 프로젝트 구성
 
 ```bash
+src
 .
 |-- App.tsx
 |-- Document.tsx
