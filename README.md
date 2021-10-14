@@ -15,7 +15,7 @@ src
         `-- MainTemplate.tsx
 ```
 
-refactoring을 하며 배운 것(키워드 정리)
+# refactoring을 하며 배운 것(키워드 정리)
 
 1. react element
 2. component
