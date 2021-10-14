@@ -31,9 +31,10 @@ src
 11. handler 
 12. async와 await 
 13. Array.map
-14. 전역 상태 관리 with recoil
-15. 전역 상태 관리가 필요한 이유 
-16. molecules와 organisms의 차이
-17. redux 📌
-18. event bubbling 📌
-19. call stack 📌
+14. props drilling
+15. 전역 상태 관리 with recoil
+16. 전역 상태 관리가 필요한 이유 
+17. molecules와 organisms의 차이
+18. redux 📌
+19. event bubbling 📌
+20. call stack 📌
