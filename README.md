@@ -31,7 +31,7 @@ src
 11. handler 
 12. async와 await 
 13. Array.map
-14. props drilling
+14. prop drilling
 15. 전역 상태 관리 with recoil
 16. 전역 상태 관리가 필요한 이유 
 17. molecules와 organisms의 차이
