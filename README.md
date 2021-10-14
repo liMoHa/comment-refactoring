@@ -18,21 +18,22 @@ src
 # refactoring을 하며 알게 된 것(키워드 정리)
 
 0. atomic design
-1. JSX
-2. react element
-3. component
-4. props
-5. state와 lifecycle 
-6. hooks
-7. useState, target
-8. useEffect
-9. 리렌더링이 되는 경우
-10. handler 
-11. async와 await 
-12. Array.map
-13. 전역 상태 관리 with recoil
-14. 전역 상태 관리가 필요한 이유 
-15. molecules와 organisms의 차이
-16. redux 📌
-17. event bubbling 📌
-18. call stack 📌
+1. Next.js
+2. JSX
+3. react element
+4. component
+5. props
+6. state와 lifecycle 
+7. hooks
+8. useState, target
+9. useEffect
+10. 리렌더링이 되는 경우
+11. handler 
+12. async와 await 
+13. Array.map
+14. 전역 상태 관리 with recoil
+15. 전역 상태 관리가 필요한 이유 
+16. molecules와 organisms의 차이
+17. redux 📌
+18. event bubbling 📌
+19. call stack 📌
