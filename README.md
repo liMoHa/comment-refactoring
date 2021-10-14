@@ -15,7 +15,7 @@ src
         `-- MainTemplate.tsx
 ```
 
-# refactoring을 하며 배운 것(키워드 정리)
+# refactoring을 하며 알게된 것(키워드 정리)
 
 1. react element
 2. component
@@ -23,8 +23,12 @@ src
 4. hooks
 5. useState
 6. useEffect
+7. 리렌더링이 되는 경우
 8. handler 
 9. asnync와 await
-10. 전역 상태 관리 with recoil
-11. 전역 상태 관리가 필요한 이유 
-12. ...계속 추가하기
+10. Array.map
+11. 전역 상태 관리 with recoil
+12. 전역 상태 관리가 필요한 이유 
+13. redux 📌
+14. event bubbling 📌
+15. call stack 📌
