@@ -17,6 +17,7 @@ src
 
 # refactoring을 하며 알게된 것(키워드 정리)
 
+0. atomic design
 1. react element
 2. component
 3. props
