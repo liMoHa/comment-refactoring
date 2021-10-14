@@ -28,7 +28,7 @@ src
 8. useState, target
 9. useEffect
 10. 리렌더링이 되는 경우
-11. handler 
+11. event handler 
 12. async와 await 
 13. Array.map
 14. prop drilling
