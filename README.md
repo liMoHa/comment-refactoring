@@ -31,7 +31,7 @@ src
 11. Array.map
 12. 전역 상태 관리 with recoil
 13. 전역 상태 관리가 필요한 이유 
-14. redux 📌
-15. event bubbling 📌
-16. call stack 📌
-17. molecules와 organisms의 차이 📌
+14. molecules와 organisms의 차이
+15. redux 📌
+16. event bubbling 📌
+17. call stack 📌
