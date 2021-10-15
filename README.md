@@ -1,20 +1,3 @@
-# 프로젝트 구성
-
-```bash
-src
-.
-|-- App.tsx
-|-- Document.tsx
-|-- components
-|   |-- atoms
-|   |-- molecules
-|   `-- organisms
-|-- index.tsx
-`-- pages
-    `-- Main
-        `-- MainTemplate.tsx
-```
-
 # refactoring을 하며 알게 된 것(키워드 정리)
 
 0. atomic design
