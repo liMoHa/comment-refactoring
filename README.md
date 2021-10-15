@@ -1,4 +1,5 @@
-# 아토믹 설계 문서[https://cat-pearl-b11.notion.site/aecd8d02d08d468bb493976603de15e2]
+# 아토믹 설계 문서
+- [https://cat-pearl-b11.notion.site/aecd8d02d08d468bb493976603de15e2]
 
 
 # refactoring을 하며 알게 된 것(키워드 정리)
