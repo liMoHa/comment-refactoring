@@ -22,3 +22,4 @@
 19. redux 📌
 20. event bubbling 📌
 21. call stack 📌
+22. SSR
