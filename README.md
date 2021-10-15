@@ -30,11 +30,12 @@ src
 10. 리렌더링이 되는 경우
 11. event handler 
 12. async와 await + promise
-13. Array.map
-14. prop drilling
-15. 전역 상태 관리 with recoil
-16. 전역 상태 관리가 필요한 이유 
-17. molecules와 organisms의 차이
-18. redux 📌
-19. event bubbling 📌
-20. call stack 📌
+13. Object.keys()
+14. Array.map()
+15. prop drilling
+16. 전역 상태 관리 with recoil
+17. 전역 상태 관리가 필요한 이유 
+18. molecules와 organisms의 차이
+19. redux 📌
+20. event bubbling 📌
+21. call stack 📌
