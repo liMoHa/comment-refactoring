@@ -29,7 +29,7 @@ src
 9. useEffect
 10. 리렌더링이 되는 경우
 11. event handler 
-12. async와 await 
+12. async와 await + promise
 13. Array.map
 14. prop drilling
 15. 전역 상태 관리 with recoil
