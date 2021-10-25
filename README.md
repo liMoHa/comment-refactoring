@@ -11,21 +11,22 @@
 4. component ( function component vs class component )
 5. props
 6. state와 lifecycle 
-7. hooks
-8. useState, target
-9. useEffect
-10. 리렌더링이 되는 경우
-11. event handler 
-12. async와 await + promise
-13. Object.keys()
-14. Array.map()
-15. prop drilling
-16. 전역 상태 관리 with recoil
-17. 전역 상태 관리가 필요한 이유 
-18. molecules와 organisms의 차이
-19. redux 📌
-20. event bubbling 📌
-21. call stack 📌
-22. SSR
-23. Container-Presenter
-24. 
+7. render()
+8. hooks
+9. useState, target
+10. useEffect
+11. 리렌더링이 되는 경우
+12. event handler 
+13. async와 await + promise
+14. Object.keys()
+15. Array.map()
+16. prop drilling
+17. 전역 상태 관리 with recoil
+18. 전역 상태 관리가 필요한 이유 
+19. molecules와 organisms의 차이
+20. redux 📌
+21. event bubbling 📌
+22. call stack 📌
+23. SSR
+24. Container-Presenter
+25. 
