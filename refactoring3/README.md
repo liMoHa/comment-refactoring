@@ -2,6 +2,7 @@
 - component재구성
 - container-presenter이해
 - recoil root 선언 위치 수정
+- state가 필요한 것과 필요하지 않은 것들 
 
 # 프로젝트 구성
 
