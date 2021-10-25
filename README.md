@@ -12,7 +12,7 @@
 5. props
 6. state와 lifecycle 
 7. render() - state값이 변경될 때마다 재실행
-8. componentDidMount/componentWillUnmount -> 메모리 관리를 위해 사용
+8. componentDidMount/componentWillUnmount
 9. hooks
 10. useState, target
 11. useEffect
