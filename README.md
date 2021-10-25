@@ -14,20 +14,21 @@
 7. render() - state값이 변경될 때마다 재실행
 8. componentDidMount/componentWillUnmount
 9. hooks
-10. useState, target
-11. useEffect
-12. 리렌더링이 되는 경우
-13. event handler 
-14. async와 await + promise
-15. Object.keys()
-16. Array.map()
-17. prop drilling
-18. 전역 상태 관리 with recoil
-19. 전역 상태 관리가 필요한 이유 
-20. molecules와 organisms의 차이
-21. redux 📌
-22. event bubbling 📌
-23. call stack 📌
-24. SSR
-25. Container-Presenter
-26. 
+10. setState
+11. useState, target
+12. useEffect
+13. 리렌더링이 되는 경우
+14. event handler 
+15. async와 await + promise
+16. Object.keys()
+17. Array.map()
+18. prop drilling
+19. 전역 상태 관리 with recoil
+20. 전역 상태 관리가 필요한 이유 
+21. molecules와 organisms의 차이
+22. redux 📌
+23. event bubbling 📌
+24. call stack 📌
+25. SSR
+26. Container-Presenter
+27. 
