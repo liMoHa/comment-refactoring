@@ -8,7 +8,7 @@
 1. Next.js
 2. JSX
 3. react element
-4. component
+4. component ( function component vs class component )
 5. props
 6. state와 lifecycle 
 7. hooks
