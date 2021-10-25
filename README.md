@@ -11,7 +11,7 @@
 4. component ( function component vs class component )
 5. props
 6. state와 lifecycle 
-7. render()
+7. render() - state값이 변경될 때마다 재실행
 8. hooks
 9. useState, target
 10. useEffect
