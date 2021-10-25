@@ -27,3 +27,5 @@
 20. event bubbling 📌
 21. call stack 📌
 22. SSR
+23. Container-Presenter
+24. 
