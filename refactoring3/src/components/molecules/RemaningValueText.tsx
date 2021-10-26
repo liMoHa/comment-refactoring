@@ -1,15 +1,13 @@
 import React from 'react';
+import { useRecoilState } from 'recoil';
 import { getTotalValue } from '../../util';
 
+import { nameList } from "../../data/nameList";
+import valueListState from "../../state/valueList";
 
-type RemaningValueTextProps = {
-    defaultTotalValue: number;
-    valueList: any;
-}
-
-const RemaningValueText = ({ defaultTotalValue, valueList }: RemaningValueTextProps) => {
-
-
+const RemaningValueText = () => {
+    const defaultTotalValue = nameList.length * 150000;
+    const valueList = useRecoilState<any>(valueListState)[0];
     const percentLeftTotalvalue = Math.floor(
         ((defaultTotalValue - getTotalValue(valueList)) / defaultTotalValue) * 100
     );

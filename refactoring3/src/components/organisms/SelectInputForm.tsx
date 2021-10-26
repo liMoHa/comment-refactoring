@@ -1,5 +1,4 @@
 import React from "react";
-import { useEffect } from "react";
 import { useRecoilState } from 'recoil';
 
 
@@ -47,27 +46,6 @@ const SelectInputForm = () => {
         setValue('');
         setLoading(false);
     };
-
-    const setValueListFromDB = async () => {
-        setLoading(true);
-
-        const { data } = await db.query<any>(q.Get(ref));
-
-        console.log('data from DB', data);
-        setValueList(data);
-
-        setLoading(false);
-    };
-
-    useEffect(() => {
-        const defaultSelectedName: any = localStorage.getItem(
-            'defaultSelectedName'
-        );
-        console.log(defaultSelectedName);
-        setSelectedName(defaultSelectedName || nameList[0]);
-
-        setValueListFromDB();
-    }, []);
 
     return (
         <div style={{ marginBottom: 8, height: 36 }}>

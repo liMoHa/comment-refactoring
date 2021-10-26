@@ -1,12 +1,12 @@
 import React from 'react';
 import { getTotalValue } from '../../util';
+import { useRecoilState } from 'recoil';
 
+import valueListState from "../../state/valueList";
 
-type TotalPaymentTextProps = {
-    valueList: any;
-}
+const TotalPaymentText = () => {
+    const valueList = useRecoilState<any>(valueListState)[0];
 
-const TotalPaymentText = ({ valueList }: TotalPaymentTextProps) => {
     return (
         <div
             style={{
