@@ -3,6 +3,7 @@
 - container-presenter이해
 - recoil root 선언 위치 수정
 - state가 필요한 것과 필요하지 않은 것들 
+- useEffect 중복 수정
 
 ...3차 리팩토링 진행중...
 
@@ -17,7 +18,7 @@ src
 └── pages                 
 │    └── Main
 │     	└── MainTemplate.tsx
-└── state                          # 전역 상태 관리를 위한 디렉토리 추가    
+└── state                         
 ```
 
 # 실행방법
