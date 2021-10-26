@@ -1,6 +1,5 @@
 import React from 'react';
 
-
 type UserImgProps = {
     isSelected: any;
     url: string;

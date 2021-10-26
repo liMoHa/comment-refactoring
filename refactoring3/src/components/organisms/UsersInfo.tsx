@@ -1,5 +1,5 @@
 import React from "react";
-import UserInfo from "../molecules/UserInfo";
+import UserInfo from "./UserInfo";
 import { useRecoilState } from "recoil";
 
 import selectNameState from "../../state/SelectName";

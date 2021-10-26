@@ -14,8 +14,8 @@ import valueListState from "../../state/valueList";
 import Title from '../../components/atoms/Title';
 import SelectInputForm from '../../components/organisms/SelectInputForm';
 import UsersInfo from '../../components/organisms/UsersInfo';
-import RemaningValueText from "../../components/molecules/RemaningValueText";
-import TotalPaymentText from "../../components/molecules/TotalPaymentText";
+import RemaningValueText from "../../components/organisms/RemaningValueText";
+import TotalPaymentText from "../../components/organisms/TotalPaymentText";
 
 export default function MainTemplate() {
     const setLoading = useRecoilState(loadingState)[1];

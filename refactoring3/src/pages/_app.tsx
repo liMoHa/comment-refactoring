@@ -1,6 +1,6 @@
 import Head from 'next/head';
 import { AppProps } from 'next/app';
-
+import { RecoilRoot } from 'recoil';
 import '../style/style.css';
 
 const App = ({ Component, pageProps }: AppProps) => {
@@ -13,7 +13,10 @@ const App = ({ Component, pageProps }: AppProps) => {
                 />
                 <meta name='mobile-web-app-capable' content='yes' />
             </Head>
-            <Component {...pageProps} />
+            <RecoilRoot>
+                <Component {...pageProps} />
+            </RecoilRoot>
+
         </>
     );
 };
