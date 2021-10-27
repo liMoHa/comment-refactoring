@@ -1,6 +1,6 @@
 import faunadb from 'faunadb';
 
-const secretKey = 'fnAEWhydsJAAxrzqYQicQ7lyabik0oIa8Uwt1_rM';
+const secretKey = 'fnAEWh1OJzAAxp6DCscO17KkYU2bHnnmsAQoo9v5';
 
 const serverClient = new faunadb.Client({ secret: secretKey });
 
